@@ -6,6 +6,12 @@
 
 Sou um **desenvolvedor fullstack** apaixonado por tecnologia e inovação. Com uma sólida experiência em diversas tecnologias e um forte desejo de aprender e crescer, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
+## 📈 Minhas Estatísticas de Contribuições
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Freitas0&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
+
 ### 🌟 Experiência
 
 Tenho experiência em desenvolvimento de aplicações web, tanto no front-end quanto no back-end. Trabalho com tecnologias modernas e ferramentas de desenvolvimento que me permitem criar soluções eficazes e escaláveis.
