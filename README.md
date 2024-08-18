@@ -2,7 +2,6 @@
 
 Desenvolvedor fullstack apaixonado por tecnologia e inovação. Com experiência em diversas tecnologias e um forte desejo de aprender e crescer, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
 
 
 ## 🛠️ Últimos Commits
@@ -10,6 +9,7 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Com experiência
 <!-- COMMITS -->
 
 <!-- /COMMITS -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
 
 ## 🌟 Experiência
 
