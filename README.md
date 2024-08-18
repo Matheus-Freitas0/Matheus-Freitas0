@@ -8,6 +8,7 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Com experiência
 ## 🛠️ Últimos Commits
 
 <!-- COMMITS -->
+
 <!-- /COMMITS -->
 
 ## 🌟 Experiência
