@@ -29,6 +29,8 @@ Um sistema de gerenciamento de pedidos desenvolvido com TypeScript e Express. Es
 - **Validação de Estoque:** Verificação automática do estoque disponível para cada pedido.
 - **Integração com Bancos de Dados:** Armazenamento eficiente de dados usando MySQL e MongoDB.
 - **Manipulação de Arquivos:** Leitura e escrita de arquivos para gerenciamento de dados.
+- - **Arquitetura Modular:** Estrutura o código de forma modular, permitindo fácil expansão e manutenção do projeto, além de suportar a adição de novas funcionalidades de forma ágil.
+- **Autenticação e Autorização:** Implementa mecanismos de autenticação para proteger as rotas da API e garantir que apenas usuários autorizados possam realizar determinadas ações.
 
 ## 🎯 Objetivos Atuais
 
@@ -43,4 +45,4 @@ Um sistema de gerenciamento de pedidos desenvolvido com TypeScript e Express. Es
 
 ## 🛠️ Contribuições
 
-Estou aberto a colaborações e contribuições par
+Estou aberto a colaborações e contribuições para projetos interessantes e desafiadores. Se você tiver uma ideia ou um projeto em mente, sinta-se à vontade para entrar em contato!
