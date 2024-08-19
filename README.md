@@ -6,9 +6,6 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Com experiência
 
 ## 🛠️ Últimos Commits
 
-<!-- COMMITS -->
-
-<!-- /COMMITS -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
 
 ## 🌟 Experiência
