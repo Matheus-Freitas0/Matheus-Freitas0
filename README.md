@@ -69,7 +69,7 @@ O projeto 'Orders Manager' é uma aplicação de gerenciamento de pedidos desenv
 ## 📫 Contato
 
 - **E-mail:** [moncaomatheus@gmail.com](mailto:moncaomatheus@gmail.com)
-- **LinkedIn:** [Matheus M. Freitas](www.linkedin.com/in/matheus-m-freitas)
+- **LinkedIn:** [www.linkedin.com/in/matheus-m-freitas](https://www.linkedin.com/in/matheus-m-freitas)
 
 ## 🛠️ Contribuições
 
