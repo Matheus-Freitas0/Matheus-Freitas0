@@ -55,6 +55,22 @@ O projeto 'Orders Manager' é uma aplicação de gerenciamento de pedidos desenv
 - **Arquitetura Modular:** Estrutura modular que facilita a expansão e manutenção do projeto.
 - **Autenticação e Autorização:** Mecanismos para proteger as rotas da API e garantir que apenas usuários autorizados possam realizar determinadas ações.
 
+### [Developer-dictionary](https://github.com/Matheus-Freitas0/Developer-dictionary)
+
+**Sobre o Projeto**
+
+**Estrutura**
+
+- **Ordem** : Número sequencial dos termos.
+- **Termo**: Palavra ou expressão técnica.
+- **Descrição**: Explicação detalhada do termo.
+- **Categoria**: Classificação do termo, como "Metodologia", "Sistema", "Linguagem de Programação", etc.
+
+**Funcionalidades**
+- **Termos Organizados** : Todos os termos são organizados e numerados para fácil navegação.
+- **Categorias Diversas** : Os termos são agrupados em categorias específicas para uma melhor compreensão.
+- **Atualizações Contínuas** : O dicionário será constantemente atualizado com novos termos e conceitos relevantes.
+
 ## 🎯 Objetivos Atuais
 
 - Aperfeiçoar habilidades em DevOps.
