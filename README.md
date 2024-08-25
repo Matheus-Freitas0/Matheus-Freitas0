@@ -60,8 +60,11 @@ Gerenciamento completo de pedidos, integração com bancos de dados e validaçã
 - TypeScript
 - Express
 - MySQL, MongoDB
-- Autenticação JWT
+- Autenticação 
 - Manipulação de arquivos
+- Axios para integração de API
+- Strategy
+- Adapter
 
 ---
 
