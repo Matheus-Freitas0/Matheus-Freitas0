@@ -59,7 +59,7 @@ Gerenciamento completo de pedidos, integração com bancos de dados e validaçã
 **Tecnologias:**
 - TypeScript
 - Express
-- MySQL, MongoDB
+- MySQL
 - Autenticação 
 - Manipulação de arquivos
 - Axios para integração de API
