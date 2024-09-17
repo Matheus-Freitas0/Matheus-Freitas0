@@ -89,10 +89,6 @@ Dicionário de termos técnicos organizado em categorias, pensado para auxiliar 
 
 ---
 
-## 📜 Certificações
-
----
-
 ## 📫 Contato
 
 - **E-mail:** [moncaomatheus@gmail.com](mailto:moncaomatheus@gmail.com)
