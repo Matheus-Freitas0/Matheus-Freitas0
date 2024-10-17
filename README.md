@@ -65,6 +65,8 @@ Gerenciamento completo de pedidos, integração com bancos de dados e validaçã
 - Axios para integração de API
 - Strategy
 - Adapter
+- Mensageria (RabbitMQ)
+- Cache (Redis)
 
 ---
 
