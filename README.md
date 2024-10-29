@@ -67,7 +67,7 @@ Gerenciamento completo de pedidos, integração com bancos de dados e validaçã
 - Adapter
 - Mensageria (RabbitMQ)
 - Cache (Redis)
-- Teste unitario(jest)
+- Teste unitario (Jest)
 
 ---
 
