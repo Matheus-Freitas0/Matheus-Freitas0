@@ -33,9 +33,9 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Tenho experiênc
 
 ### Tecnologias que utilizo:
 
-- **Front-end:** React, Angular, HTML, CSS, JavaScript, TypeScript
-- **Back-end:** Node.js, Express, TypeScript
-- **Banco de Dados:** MySQL, MongoDB
+- **Front-end:** React, HTML, CSS, JSP, EJS, JavaScript, TypeScript
+- **Back-end:** Node.js, Express, TypeScript, Spring Boot
+- **Banco de Dados:** MySQL, MongoDB, Postgres
 - **DevOps:** Docker, Git, GitHub Actions
 - **Outras:** RESTful APIs, DBeaver, Postman, Linux
 
