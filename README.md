@@ -11,9 +11,12 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Tenho experiênc
 ## 🚀 Minhas Tecnologias & Ferramentas
 
 <div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
+  <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -21,6 +24,7 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Tenho experiênc
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dbeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -32,11 +36,12 @@ Desenvolvedor fullstack apaixonado por tecnologia e inovação. Tenho experiênc
 
 ### Tecnologias que utilizo:
 
-- **Front-end:** React, HTML, CSS, JSP, EJS, JavaScript, TypeScript
-- **Back-end:** Node.js, Express, TypeScript, Spring Boot
-- **Banco de Dados:** MySQL, MongoDB, Postgres
-- **DevOps:** Docker, Git, GitHub Actions
-- **Outras:** RESTful APIs, DBeaver, Postman, Linux
+- **Front-end:** React, HTML, CSS, JavaScript, TypeScript, Material UI, Vite, Axios, JSP, EJS
+- **Back-end:** Node.js, Express, Spring Boot, Java, TypeScript, JWT, JPA/Hibernate, Lombok
+- **Banco de Dados:** MySQL, MongoDB, PostgreSQL, DBeaver, Flyway
+- **DevOps:** Docker, Git, GitHub Actions, Git Flow, Linux
+- **Testes:** JUnit, Mockito
+- **Outras:** RESTful APIs, Swagger, Postman, IntelliJ IDEA, VSCode, JasperReports, Arquitetura MVC
 
 ---
 
