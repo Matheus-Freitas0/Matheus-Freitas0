@@ -1,108 +1,102 @@
-# 👋 Olá! Eu sou Matheus Freitas
+# 👋 Olá, eu sou o Matheus Freitas
 
-Desenvolvedor fullstack apaixonado por tecnologia e inovação. Tenho experiência em criar soluções web modernas e escaláveis, usando tecnologias de ponta tanto no front-end quanto no back-end. Estou sempre em busca de desafios que me permitam aprender e crescer.
+Desenvolvedor **Full Stack** apaixonado por tecnologia, arquitetura de software e soluções inteligentes. Tenho experiência no desenvolvimento de aplicações web escaláveis e performáticas, atuando em todas as camadas da stack — do banco de dados ao front-end.
 
-## 🛠️ Últimos Commits
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
+Sou movido por desafios que me impulsionem a aprender mais, aplicar boas práticas de engenharia de software e entregar valor com eficiência e qualidade.
 
 ---
 
-## 🚀 Minhas Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
   <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dbeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 ---
 
-### Tecnologias que utilizo:
+### ⚙️ Stack que utilizo no dia a dia:
 
 - **Front-end:** React, HTML, CSS, JavaScript, TypeScript, Material UI, Vite, Axios, JSP, EJS
-- **Back-end:** Node.js, Express, Spring Boot, Java, TypeScript, JWT, JPA/Hibernate, Lombok
-- **Banco de Dados:** MySQL, MongoDB, PostgreSQL, DBeaver, Flyway
+- **Back-end:** Node.js, Express, Java (Spring Boot), JWT, JPA/Hibernate, Lombok
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Flyway, DBeaver
 - **DevOps:** Docker, Git, GitHub Actions, Git Flow, Linux
-- **Testes:** JUnit, Mockito
-- **Outras:** RESTful APIs, Swagger, Postman, IntelliJ IDEA, VSCode, JasperReports, Arquitetura MVC
+- **Testes:** JUnit, Mockito, Jest
+- **Extras:** Swagger, RESTful APIs, Postman, IntelliJ IDEA, VSCode, JasperReports, Arquitetura MVC
 
 ---
 
+## 🔥 GitHub Stats
 
-## 📈 Estatísticas do GitHub
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Freitas0&layout=compact&theme=dark)
----
-
-## 🌟 Experiência
-
-Tenho sólida experiência em desenvolvimento fullstack, criando aplicações robustas e escaláveis. Utilizo tecnologias modernas para entregar soluções eficientes, com foco em uma boa experiência do usuário e otimização de performance.
-
-## 📚 Projetos Recentes
-
-### [Orders Manager](https://github.com/Matheus-Freitas0/orders-manager)
-Gerenciamento completo de pedidos, integração com bancos de dados e validação de estoque, utilizando TypeScript e Express. Arquitetura modular e proteção de rotas via autenticação.
-
-**Tecnologias:**
-- TypeScript
-- Express
-- MySQL
-- Autenticação 
-- Manipulação de arquivos
-- Axios para integração de API
-- Strategy
-- Adapter
-- Mensageria (RabbitMQ)
-- Cache (Redis)
-- Teste unitario (Jest)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Freitas0&layout=compact&theme=dark)
 
 ---
 
-### [Developer Dictionary](https://github.com/Matheus-Freitas0/Developer-dictionary)
-Dicionário de termos técnicos organizado em categorias, pensado para auxiliar desenvolvedores a entender melhor os principais conceitos da área de TI.
+## 💼 Experiência
 
-**Funcionalidades:**
-- Listagem e organização de termos por categorias.
-- Termos atualizados regularmente.
+Tenho experiência no desenvolvimento de sistemas completos, desde landing pages e CRUDs simples até sistemas administrativos robustos, APIs REST seguras e aplicações de back-end orientadas a microsserviços.
 
+Trabalho com foco em **boas práticas**, como:
+- Clean Code & SOLID
+- Versionamento de código limpo
+- Arquitetura escalável e reutilizável
+- Integração contínua e deploy automatizado
+
+---
+
+## 🛠️ Projetos Recentes
+### [🔐 POC Spring Security - JWT](https://github.com/Matheus-Freitas0/Poc-Spring-Security)
+Prova de conceito com Spring Boot e Spring Security, implementando autenticação e autorização via JWT com chaves RSA. Inclui controle de acesso a rotas privadas, criptografia com BCrypt e uso de banco H2 em memória.
+
+Stack: Java 21, Spring Boot 3.5.3, Spring Security, OAuth2, JWT, JPA, H2, Maven
+
+---
+
+### [POC OpenFeign - Consulta de CEP](https://github.com/Matheus-Freitas0/Poc-OpenFeign)
+Projeto que demonstra o uso do Spring Cloud OpenFeign para consumir APIs REST de forma declarativa. Realiza integração com a API pública ViaCEP, retornando os dados de endereço a partir de um CEP.
+
+Stack: Java 21, Spring Boot 3.5.3, Spring Cloud 2025.0.0, OpenFeign, Maven
+
+---
+
+### [🧩 Componentes Material UI](https://github.com/Matheus-Freitas0/Componentes_MaterialUI)
+Biblioteca de componentes React reutilizáveis construída com Material UI v6. Focada em responsividade, design elegante e facilidade de integração em projetos modernos.
+
+Stack: React, JavaScript, Material UI v6, Vite
 
 ---
 
 ## 🎯 Objetivos Atuais
 
-- Aperfeiçoar minhas habilidades em DevOps com foco em automação de deploys e infraestrutura em nuvem.
-- Expandir meu conhecimento em frameworks front-end como Vue.js e Svelte.
-- Aprimorar arquitetura de software e padrões de projeto.
-- Criar projetos open-source que resolvam problemas reais.
-- Colaborar em projetos desafiadores e inovadores.
-- Explorar tecnologias emergentes como blockchain e inteligência artificial.
+- Aprofundar conhecimentos em DevOps (CI/CD, containers, infraestrutura)
+- Dominar arquitetura de microsserviços e boas práticas de design
+- Contribuir com projetos open-source
+- Aprender tecnologias emergentes como IA e n8n
+- Explorar padrões de SEO e boas praticas no front-end
 
 ---
 
 ## 📫 Contato
 
-- **E-mail:** [moncaomatheus@gmail.com](mailto:moncaomatheus@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/matheus-m-freitas](https://www.linkedin.com/in/matheus-m-freitas)
+- ✉️ **Email:** [moncaomatheus@gmail.com](mailto:moncaomatheus@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/matheus-m-freitas](https://www.linkedin.com/in/matheus-m-freitas)
 
 ---
 
-## 🤝 Contribuições
+## 🤝 Vamos Colaborar?
 
-Estou sempre aberto para colaborar em projetos interessantes e desafiadores. Se você tiver uma ideia ou um projeto em mente, sinta-se à vontade para me contatar!
+Estou aberto a contribuições, parcerias ou freelas! Se tiver uma ideia ou projeto em mente, entre em contato. Será um prazer trabalharmos juntos! 🚀
