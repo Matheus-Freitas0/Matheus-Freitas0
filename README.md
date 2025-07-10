@@ -34,7 +34,7 @@ Sou movido por desafios que me impulsionem a aprender mais, aplicar boas prátic
 - **Back-end:** Node.js, Express, Java (Spring Boot), JWT, JPA/Hibernate, Lombok
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Flyway, DBeaver
 - **DevOps:** Docker, Git, GitHub Actions, Git Flow, Linux
-- **Testes:** JUnit, Mockito, Jest
+- **Testes:** JUnit, Mockito
 - **Extras:** Swagger, RESTful APIs, Postman, IntelliJ IDEA, VSCode, JasperReports, Arquitetura MVC
 
 ---
