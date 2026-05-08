@@ -42,7 +42,6 @@ Sou movido por desafios que me impulsionem a aprender mais, aplicar boas prátic
 ## 🔥 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Freitas0&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Freitas0&layout=compact&theme=dark)
 
 ---
 
